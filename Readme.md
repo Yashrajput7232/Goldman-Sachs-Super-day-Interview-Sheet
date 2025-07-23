@@ -90,3 +90,19 @@ Track your progress for DSA, System Design, Puzzles, and Behavioral rounds. Each
 | \[ ] | Social Feed             | Fanout, Personalization                   | Graph DB (Neo4j), Redis       | Precompute for high users       |
 | \[ ] | SQL DB with Sharding    | Load Distribution, Availability           | Postgres + Shard Proxy        | Hashing + query router          |
 | \[ ] | Your Own Project        | End-to-end discussion                     | Your Tech Stack               | Focus on trade-offs, decisions  |
+
+---
+
+## 💬 Behavioral Questions (STAR Format)
+
+| ✅    | Question                  | How to Answer (STAR Format)                              | Key Tips                               |
+| ---- | ------------------------- | -------------------------------------------------------- | -------------------------------------- |
+| \[ ] | Why Goldman Sachs?        | S: Goal, T: Why GS, A: Prep, R: Fit                      | Mention firm's values & learning goals |
+| \[ ] | Tell me about a challenge | S: Context, T: Problem, A: Actions, R: Outcome           | Pick real challenge with tech context  |
+| \[ ] | Conflict in a team        | S: Conflict, T: Goal, A: Communication, R: Resolution    | Show maturity, collaboration           |
+| \[ ] | Ownership story           | S: Task, T: Why important, A: Took lead, R: Results      | Focus on initiative taken              |
+| \[ ] | High-pressure situation   | S: Urgency, T: Stakes, A: Handling, R: Result            | Emphasize calm, structured thinking    |
+| \[ ] | Ethical dilemma           | S: Situation, T: Dilemma, A: Acted ethically, R: Outcome | Align with honesty, integrity          |
+| \[ ] | Project you’re proud of   | S: Problem, T: Goal, A: Your role, R: Impact             | Include metrics, outcome, stack        |
+
+---
